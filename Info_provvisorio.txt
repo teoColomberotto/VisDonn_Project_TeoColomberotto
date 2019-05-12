@@ -1,0 +1,19 @@
+visualizzazione dati che mostra la durata MEDIA di tutti i brani dei più famosi musicsiti/band nel corso di ogni anno.
+
+Intervallo temporale: 1900 -- 2019
+Range musicisti: circa 200/250
+
+Asse y --> posizione in classifica
+Asse x --> durata media di tutti i brani composti in quell'anno
+Colore del pallino --> stile musicale del'artista
+Pallino --> artista
+Slider --> etichetta musicale (pop, rock, rap)
+
+
+Algoritmo:
+Trovare tutti gli artisti più ascoltati per generi 
+Trovare tutti i brani di ogni artista
+Calcolare la durata totale dei brani
+Trovare la posizione di tutti gli artisti
+Unire la posizione in classific con la durata media
+Spartire gli artisti in funzione del tag_Genere a loro associato

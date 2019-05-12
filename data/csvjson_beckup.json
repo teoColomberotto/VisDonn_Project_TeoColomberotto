@@ -1,0 +1,352 @@
+[
+  {
+    "name": "Billie Eilish",
+    "genre": "Pop",
+    "nbSongs": 83,
+    "listeners": 31889923,
+    "averageTemps": 215
+  },
+  {
+    "name": "Ed Sheeran",
+    "genre": "Pop",
+    "nbSongs": 192,
+    "listeners": 41289993,
+    "averageTemps": 195
+  },
+  {
+    "name": "Queen",
+    "genre": "Rock",
+    "nbSongs": 456,
+    "listeners": 56845967,
+    "averageTemps": 245 
+  },
+  {
+    "name": "Pink Floyd",
+    "genre": "Rock",
+    "nbSongs": 397,
+    "listeners": 51234586,
+    "averageTemps": 378
+  },
+  {
+    "name": "Daft Punk",
+    "genre": "Electronic",
+    "nbSongs": 150,
+    "listeners": 29857677,
+    "averageTemps": 327
+  },
+  {
+    "name": "Drake",
+    "genre": "Rap-HipHop",
+    "nbSongs": 194,
+    "listeners": 71284995,
+    "averageTemps": 266
+  },
+  {
+    "name": "Wolfgang Amedeus Mozart",
+    "genre": "Classical",
+    "nbSongs": 497,
+    "listeners": 46788576,
+    "averageTemps": 597
+  },
+  {
+    "name": "Michal Jackson",
+    "genre": "Pop",
+    "nbSongs": 460,
+    "listeners": 56898748,
+    "averageTemps": 345
+  },
+  {
+    "name": "Arctic Monkeys",
+    "genre": "Rock",
+    "nbSongs": 119,
+    "listeners": 39857761,
+    "averageTemps": 221
+  },
+  {
+    "name": "Talking Heads",
+    "genre": "Pop",
+    "nbSongs": 430,
+    "listeners": 15246928,
+    "averageTemps": 354
+  },
+  {
+    "name": "Chemical Brothers",
+    "genre": "Electronic",
+    "nbSongs": 267,
+    "listeners": 12756499,
+    "averageTemps": 431
+  },
+  {
+    "name": "2Pac",
+    "genre": "Rap-HipHop",
+    "nbSongs": 301,
+    "listeners": 22375677,
+    "averageTemps": 298
+  },
+  {
+    "name": "Police",
+    "genre": "Rock",
+    "nbSongs": 367,
+    "listeners": 10050883,
+    "averageTemps": 213
+  },
+  {
+    "name": "Katy Perry",
+    "genre": "Pop",
+    "nbSongs": 185,
+    "listeners": 34589968,
+    "averageTemps": 218
+  },
+  {
+    "name": "Tiesto",
+    "genre": "Electronic",
+    "nbSongs": 547,
+    "listeners": 14375657,
+    "averageTemps": 458
+  },
+  {
+    "name": "Franz Listz",
+    "genre": "Classical",
+    "nbSongs": 231,
+    "listeners": 9857747,
+    "averageTemps": 521
+  },
+  {
+    "name": "Hans Zimmer",
+    "genre": "Classical",
+    "nbSongs": 356,
+    "listeners": 37688574,
+    "averageTemps": 390
+  },
+  {
+    "name": "The Beatles",
+    "genre": "Pop",
+    "nbSongs": 531,
+    "listeners": 53786777,
+    "averageTemps": 158
+  },
+  {
+    "name": "Jimmy Hendrix",
+    "genre": "Rock",
+    "nbSongs": 135,
+    "listeners": 10157774,
+    "averageTemps": 138
+  },
+  {
+    "name": "Avicii",
+    "genre": "Electronic",
+    "nbSongs": 102,
+    "listeners": 33049560,
+    "averageTemps": 458
+  },
+  {
+    "name": "David Guetta",
+    "genre": "Electronic",
+    "nbSongs": 492,
+    "listeners": 24857768,
+    "averageTemps": 443
+  },
+  {
+    "name": "Major Leazer",
+    "genre": "Electronic",
+    "nbSongs": 284,
+    "listeners": 20039489,
+    "averageTemps": 412
+  },
+  {
+    "name": "Yes",
+    "genre": "Rock",
+    "nbSongs": 531,
+    "listeners": 9857768,
+    "averageTemps": 479
+  },
+  {
+    "name": "Metallica",
+    "genre": "Rock",
+    "nbSongs": 256,
+    "listeners": 20005768,
+    "averageTemps": 367
+  },
+  {
+    "name": "Nirvana",
+    "genre": "Rock",
+    "nbSongs": 112,
+    "listeners": 28985777,
+    "averageTemps": 342
+  },
+  {
+    "name": "Eminem",
+    "genre": "Rap-HipHop",
+    "nbSongs": 395,
+    "listeners": 29098885,
+    "averageTemps": 317
+  },
+  {
+    "name": "Beach Boys",
+    "genre": "Pop",
+    "nbSongs": 319,
+    "listeners": 9857768,
+    "averageTemps": 163
+  },
+  {
+    "name": "U2",
+    "genre": "Rock",
+    "nbSongs": 342,
+    "listeners": 38757767,
+    "averageTemps": 227
+  },
+  {
+    "name": "Beach Boys",
+    "genre": "Pop",
+    "nbSongs": 319,
+    "listeners": 9857768,
+    "averageTemps": 163
+  },
+  {
+    "name": "The Doors",
+    "genre": "Rock",
+    "nbSongs": 145,
+    "listeners": 6857768,
+    "averageTemps": 184
+  },
+  {
+    "name": "Ricky Martin",
+    "genre": "Pop",
+    "nbSongs": 280,
+    "listeners": 18653468,
+    "averageTemps": 185
+  },
+  {
+    "name": "Phil Collins",
+    "genre": "Pop",
+    "nbSongs": 360,
+    "listeners":  23677577,
+    "averageTemps": 295
+  },
+  {
+    "name": "Led Zeppelin",
+    "genre": "Pop",
+    "nbSongs": 490,
+    "listeners": 29867713,
+    "averageTemps": 276
+  },
+  {
+    "name": "Ludwig Van Beethoven",
+    "genre": "Classical",
+    "nbSongs": 453,
+    "listeners": 20017851,
+    "averageTemps": 480
+  },
+  {
+    "name": "Lil Wayne",
+    "genre": "Rap-HipHop",
+    "nbSongs": 265,
+    "listeners": 39857768,
+    "averageTemps": 264
+  },
+  {
+    "name": "Flo Rida",
+    "genre": "Rap-HipHop",
+    "nbSongs": 312,
+    "listeners": 35610748,
+    "averageTemps": 243
+  },
+  {
+    "name": "Taylor Swift",
+    "genre": "Pop",
+    "nbSongs": 76,
+    "listeners": 46889938,
+    "averageTemps": 175
+  },
+  {
+    "name": "The Killers",
+    "genre": "Rock",
+    "nbSongs": 112,
+    "listeners": 34650774,
+    "averageTemps": 253
+  },
+  {
+    "name": "Ariana Grande",
+    "genre": "Pop",
+    "nbSongs": 189,
+    "listeners": 64335670,
+    "averageTemps": 283
+  },
+  {
+    "name": "Elvis Presley",
+    "genre": "Rock",
+    "nbSongs": 490,
+    "listeners": 38533562,
+    "averageTemps": 134
+  },
+  {
+    "name": "Oasis",
+    "genre": "Rock",
+    "nbSongs": 330,
+    "listeners": 31857746,
+    "averageTemps": 346
+  },
+  {
+    "name": "Abba",
+    "genre": "Pop",
+    "nbSongs": 145,
+    "listeners": 17566647,
+    "averageTemps": 383
+  },
+  {
+    "name": "Massive attack",
+    "genre": "Electronic",
+    "nbSongs": 169,
+    "listeners": 22566100,
+    "averageTemps": 482
+  },
+  {
+    "name": "Dire Straits",
+    "genre": "Rock",
+    "nbSongs": 254,
+    "listeners": 10556438,
+    "averageTemps": 221
+  },
+  {
+    "name": "Justin Bieber",
+    "genre": "Pop",
+    "nbSongs": 98,
+    "listeners": 29588687,
+    "averageTemps": 298
+  },
+  {
+    "name": "Sex Pistols",
+    "genre": "Rock",
+    "nbSongs": 89,
+    "listeners": 19004958,
+    "averageTemps": 123
+  },
+  {
+    "name": "Tears for fears",
+    "genre": "Pop",
+    "nbSongs": 101,
+    "listeners": 14233498,
+    "averageTemps": 329
+  },
+  {
+    "name": "Adele",
+    "genre": "Pop",
+    "nbSongs": 69,
+    "listeners": 45889301 ,
+    "averageTemps": 267
+  },
+  {
+    "name": "Busta Rhymes",
+    "genre": "Rap-HipHop",
+    "nbSongs": 282,
+    "listeners": 26774500,
+    "averageTemps": 333
+  },
+  {
+    "name": "Calvin Harris",
+    "genre": "Electronic",
+    "nbSongs": 330,
+    "listeners": 34684473,
+    "averageTemps": 380
+  }
+]

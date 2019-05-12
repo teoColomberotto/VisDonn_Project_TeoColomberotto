@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <title>DataVis_project</title>
+    <style type="text/css">
+        .jumbotron{
+        margin-top: 15px;
+        padding: 17px;
+        color:black;
+        background-color: #F7F7F7;
+        }
+        </style>
+</head>
+<body>
+    <div class="container">
+        <div class="jumbotron">
+            <h1>Last.fm display the music</h1>
+            <h4>Personal data visualization project</h4>
+        </div>
+
+        <!-- SVG graph place -->
+        <div id="my_dataviz"></div>
+
+        <!--Description & Info-->
+        <div class="accordion" id="accordionExample">
+                <div class="card">
+                  <div class="card-header" id="headingOne">
+                    <h5 class="mb-0">
+                      <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                        Description
+                      </button>
+                    </h5>
+                  </div>
+              
+                  <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
+                    <div class="card-body">
+                            This graph represents the relationship between the number of tracks published, 
+                            the average duration of all the published songs and the number of listeners of a selection of musical artists.            </div>
+                  </div>
+                </div>
+                <div class="card">
+                  <div class="card-header" id="headingTwo">
+                    <h5 class="mb-0">
+                      <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                        Info
+                      </button>
+                    </h5>
+                  </div>
+                  <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+                    <div class="card-body">
+                            Each artist is represented with a single circle whose position in the X and Y axes determines the relationship
+                            between average duration and number of tracks. <hr></hr> The surface of the circle is linked to the number of total listeners
+                            while the color indicates the main musical genre related to the artist.<hr></hr>
+                            The legend allows to view only the artists of a musical genre and pointing to any circle will be shown the information of each artist (name and total listeners)
+                    </div>
+                  </div>
+                </div>
+                <div class="card">
+                  <div class="card-header" id="headingThree">
+                    <h5 class="mb-0">
+                      <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                        More
+                      </button>
+                    </h5>
+                  </div>
+                  <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+                    <div class="card-body">
+                            All data is taken from the official API of the LAST.FM portal. 
+                            The information is then processed to derive the data necessary to represent each artist
+                            <hr></hr>  
+                            <a href="https://www.last.fm/api/intro">Visit the official Last.fm API</a>          </div>
+                  </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="page-footer font-small blue">
+        <div class="footer-copyright text-center py-3">
+            © 2018 Teo Colomberotto
+        </div>
+    </footer>
+
+    <script src="bundle.js"></script>
+</body>
+</html>
+
